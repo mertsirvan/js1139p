@@ -1,0 +1,14 @@
+body {
+    background-color: #021e2e;
+    color:#fff;
+}
+
+section {
+    padding: 180px 0;
+}
+
+.scoreboard {
+    background-color: #032b42;
+    padding: 40px;
+    border-radius:20px;
+}
